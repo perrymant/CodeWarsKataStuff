@@ -1,9 +1,7 @@
 # CodeWarsKataStuff
-CodeWarsKataStuff
+Just some CodeWars Solutions in Python.
 
-Just some CodeWars Solutions in Python - unordered and unstructured.
-
-This repo is meant as a personal testing ground for remote version control with Git.
+This repo is meant as a personal testing ground for using Git.
 
 A nice example:
 ```python
